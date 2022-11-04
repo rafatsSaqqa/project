@@ -1,0 +1,7 @@
+DB name        -----> login_db
+table name     -----> user
+id             -----> int
+name           -----> varshar
+email          -----> varshar
+password_hash  -----> varshar
+usertype       -----> varshar

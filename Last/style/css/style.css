@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(221, 220, 220);
+}
+form {
+    width: 45%;
+    height: auto;
+    margin: 200px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+/* @media  (max-width: 800px) {
+    .forms {
+        width:80%;
+    }
+    body {
+    background-color: red;
+    }
+} */
